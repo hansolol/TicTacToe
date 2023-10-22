@@ -83,7 +83,6 @@ const Game = () => {
 
 // Use JavaScript Sets to check players choices
 // against winning combinations
-// Online there is more compact version but Dr. Williams prefers this one
 
 const win = [
   // rows
